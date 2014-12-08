@@ -13,7 +13,8 @@ exercise9
 +Minimizing Risks  
 +Generate a higher quality code  
 
-**Disadvantages**
+**Disadvantages**  
+
 -We need time initial implementation  
 -It is essential to develop a good test-suite for test automation to get performance  
 -The large-scale refactoring can be problematic due to the continuous evolution of the code base  
